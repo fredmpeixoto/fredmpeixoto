@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😍 I have been working with IT for 10 years and as a Developer for the since 2013, great experience with codes
+😍 I have been working with IT for 11 years and as a Developer for the since 2013, great experience with codes
 Angular 2+, Asp Net CORE, Web API, SQL and Javascript, beside knowledge and practices with methodologies such as
 Clean Code, SOLID DDD and Design Pattern.
 
@@ -24,5 +24,18 @@ to guarantee the clean code and best performance.
 
 🍕 Also for the last 3 years I´m Organizer of GDG in São José dos Campos, which is a community for shared knowledge
 about technologies of development systems.
+
+⚡ My repository with a project that I did to a position of Full Stack Developer, using ASP NET CORE and ANGULAR(typescript).
+It is the link https://github.com/fredmpeixoto/cash-machine
+
+👯 So, It's simple project to show social midias from GDG SJC
+Link: https://github.com/fredmpeixoto/gdgjsc
+Link Page: http://gdgsjc.github.io/
+
+💬 Also I wrote a article about clean code on Linkedin.
+Link: https://www.linkedin.com/pulse/three-tips-better-clean-code-fred-peixoto/
+
+📫 Finally, i showed in last mounth in short talk how build environment variable from angular on Youtube(From 09:05m).
+LInk https://www.youtube.com/watch?v=wr-lnb9c9tE&t=545s
 
 
