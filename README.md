@@ -26,16 +26,19 @@ to guarantee the clean code and best performance.
 about technologies of development systems.
 
 ⚡ My repository with a project that I did to a position of Full Stack Developer, using ASP NET CORE and ANGULAR(typescript).
+
 It is the link https://github.com/fredmpeixoto/cash-machine
 
-👯 So, It's simple project to show social midias from GDG SJC
-Link: https://github.com/fredmpeixoto/gdgjsc
-Link Page: http://gdgsjc.github.io/
+👯 So, It's simple project to show social midias from GDG SJC.
+
+Link: https://github.com/fredmpeixoto/gdgjsc | Link Page: http://gdgsjc.github.io/
 
 💬 Also I wrote a article about clean code on Linkedin.
+
 Link: https://www.linkedin.com/pulse/three-tips-better-clean-code-fred-peixoto/
 
 📫 Finally, i showed in last mounth in short talk how build environment variable from angular on Youtube(From 09:05m).
+
 LInk https://www.youtube.com/watch?v=wr-lnb9c9tE&t=545s
 
 
