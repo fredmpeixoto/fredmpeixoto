@@ -29,6 +29,10 @@ about technologies of development systems.
 
 It is the link https://github.com/fredmpeixoto/cash-machine
 
+🎮 Play my Hash Game https://fredmpeixoto.github.io/hash-game/
+
+The repository is here. 
+
 👯 So, It's simple project to show social midias from GDG SJC.
 
 Link: https://github.com/fredmpeixoto/gdgjsc | Link Page: http://gdgsjc.github.io/
