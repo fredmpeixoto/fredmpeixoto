@@ -31,7 +31,7 @@ It is the link https://github.com/fredmpeixoto/cash-machine
 
 🎮 Play my Hash Game https://fredmpeixoto.github.io/hash-game/
 
-The repository is here. 
+The repository is [here](https://github.com/fredmpeixoto/hash-game).
 
 👯 So, It's simple project to show social midias from GDG SJC.
 
@@ -41,7 +41,7 @@ Link: https://github.com/fredmpeixoto/gdgjsc | Link Page: http://gdgsjc.github.i
 
 Link: https://www.linkedin.com/pulse/three-tips-better-clean-code-fred-peixoto/
 
-📫 Finally, i showed in last mounth in short talk how build environment variable from angular on Youtube(From 09:05m).
+📫 Finally, i showed in short talk how build environment variable from angular on Youtube(From 09:05m).
 
 LInk https://www.youtube.com/watch?v=wr-lnb9c9tE&t=545s
 
