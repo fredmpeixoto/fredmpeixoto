@@ -27,7 +27,7 @@ about technologies of development systems.
 
 ⚡ My repository with a project that I did to a position of Full Stack Developer, using ASP NET CORE and ANGULAR(typescript).
 
-It is the link https://github.com/fredmpeixoto/cash-machine
+It is the link https://github.com/fredmpeixoto/register-users
 
 🎮 Play my Hash Game https://fredmpeixoto.github.io/hash-game/
 
