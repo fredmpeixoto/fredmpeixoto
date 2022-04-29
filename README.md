@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😍 I have been working with IT for 11 years and as a Developer for the since 2013, great experience with codes
-Angular 2+, Asp Net CORE, Web API, SQL and Javascript, beside knowledge and practices with methodologies such as
-Clean Code, SOLID DDD and Design Pattern.
+😍 I have been working with IT for 12 years and as a Developer for the since 2013, great experience with codes
+Angular 2+, Asp Net CORE, NODEJS, Web API, SQL and Javascript, beside knowledge and practices with methodologies such as
+Clean Code, SOLID DDD and Design Pattern..
 
-😎 Currently I'm a Developer, responsible for quality, performance of system and people. I create rules and code review
-to guarantee the clean code and best performance.
-
-🍕 Also for the last 3 years I´m Organizer of GDG in São José dos Campos, which is a community for shared knowledge
+🍕 Also for the last since 2018 I´m Organizer of GDG in São José dos Campos, which is a community for shared knowledge
 about technologies of development systems.
 
 ⚡ My repository with a project that I did to a position of Full Stack Developer, using ASP NET CORE and ANGULAR(typescript).
