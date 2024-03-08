@@ -26,7 +26,8 @@ about technologies of development systems.
 
 1 - A Search weather project, Angular + AspNET + Docker, you can pull and execute just using DOCKER https://github.com/fredmpeixoto/forecast
 2 - CRUD Project, Angular + AspNET + SQL, it a manual deployment https://github.com/fredmpeixoto/register-users
-3 - Angular Project, A HashGame showing logic works using a Multidimensional Array [here](https://github.com/fredmpeixoto/hash-game). 🎮 Play my Hash Game https://fredmpeixoto.github.io/hash-game/
+3 - Angular Project, A HashGame showing logic works using a Multidimensional Array [here](https://github.com/fredmpeixoto/hash-game). 
+   🎮 Play my Hash Game https://fredmpeixoto.github.io/hash-game/
 4 - Angular: Link: https://github.com/fredmpeixoto/gdgjsc | Link Page: http://gdgsjc.github.io
 5 - NodeJS: A Project which I am proud about SOLID Principles creating all principles as NodeJS class https://github.com/fredmpeixoto/solid-examples
 
