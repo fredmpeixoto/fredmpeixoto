@@ -1,26 +1,140 @@
-### Hi there 👋
+<h1 align="center">Frederico M. Peixoto de Lima</h1>
+<h3 align="center">Tech Lead | Full Stack Engineer | Community Leader | GDE Candidate</h3>
 
-🔭 I have been working with IT since 2009 years and as a Developer since 2013, great experience with codes
-Angular 2+, NodeJS, Asp Net CORE, NODEJS, Web API, SQL, and Javascript, besides knowledge and practices with methodologies such as
-Clean Code, SOLID DDD, and Design Pattern.
+<p align="center">
+	<a href="https://www.linkedin.com/in/fredpeixoto">LinkedIn</a> |
+	<a href="https://github.com/fredmpeixoto">GitHub</a> |
+	<a href="mailto:fredmpeixoto@gmail.com">Email</a> |
+	<a href="https://api.whatsapp.com/send?phone=5512988303265">WhatsApp</a>
+</p>
 
-🍕 Also since 2018 I have been an Organizer of GDG in São José dos Campos, which is a community for shared knowledge
-about technologies of development systems.
+---
 
-⚡ I have some repositories to show up my knowledge.
+## About Me
 
-- [A Search weather project](https://github.com/fredmpeixoto/forecast) Angular + AspNET + Docker, you can pull and execute just using DOCKER.
-- [CRUD Project](https://github.com/fredmpeixoto/register-users) Angular + AspNET + SQL + Docker you can run too.
-- [Angular Project](https://github.com/fredmpeixoto/hash-game) A HashGame showing logic works using a Multidimensional Array | 🎮 [Play my Hash Game](https://fredmpeixoto.github.io/hash-game/)
-- [Angular Single Page](https://github.com/fredmpeixoto/gdgjsc) It is a single page to show social media URL| [Link Page](http://gdgsjc.github.io)
-- [NodeJS - SOLID](https://github.com/fredmpeixoto/solid-examples) A Project which I am proud of SOLID Principles creating all principles as NodeJS class.
+I am a Brazilian **Tech Lead and Full Stack Engineer** with **16+ years of experience in IT** and strong expertise in:
 
-💬 Also I've been writing articles on Linkedin.
+- Technical leadership and team mentoring
+- Solution architecture and project delivery
+- Frontend with Angular (2+), RxJS, NgRx, TypeScript
+- Backend with Node.js, C#, ASP.NET Core, REST APIs
+- Cloud and DevOps with Azure, GCP, AWS, Docker, GitHub Actions
 
-Links for all: https://www.linkedin.com/in/fredpeixoto/recent-activity/articles/
+I am deeply involved in developer communities, mentoring engineers, organizing events, and speaking at conferences.
+My current focus is to keep scaling this impact and become a **Google Developer Expert (GDE)**.
 
-📫 Finally, I showed in a short talk how to build environment variables from angular on Youtube(From 09:05m).
+---
 
-LInk https://www.youtube.com/watch?v=wr-lnb9c9tE&t=545s
+## Community Impact
+
+- **8+ years** as a GDG organizer (São José dos Campos)
+- Organized and supported large events, including DevFest with **300+ attendees**
+- **32,000+ LinkedIn impressions** in recent years
+- Nearly **1,000 engagements** through technical content and community activities
+- Lead instructor and mentor in multiple Study Jams and Build With AI programs
+
+---
+
+## Talks and Presentations
+
+- **Google Cloud Vision API (2018)**
+	- https://docs.google.com/presentation/d/1GT51rxuPelqpbliyRHj1hyBJgyMmJlfwYnks_lQOucc/edit?usp=sharing
+- **Angular 6 + Google Actions (2019)**
+	- https://docs.google.com/presentation/d/1fz2iohQVsLSjCF_KVTbkH5q1uxCuccHzB3xfy2EzBcw/edit?usp=sharing
+- **Variable Environment from Angular (2020)**
+	- https://docs.google.com/presentation/d/12wpzp6XwEizFNM3vJdP69Z0mVBRcc7_q7EuGw15GljY/edit
+- **A Possible Path to Become a Developer and Change Career (2023)**
+	- https://docs.google.com/presentation/d/1t0Yh1hYoXehMnKVIoH-gJ-Rth4IoQLfVzvIx9i8F4eE/edit
+- **International Career: How to Be an International Developer (2025)**
+	- https://docs.google.com/presentation/d/1UpEGt4mydMEtWyhE5Lm-Ek6gHApwvJY2b-O60Bg5SVg/edit?slide=id.g62fc528f49_1_72#slide=id.g62fc528f49_1_72
+- **GitHub Copilot (2025)**
+	- https://docs.google.com/presentation/d/1UpEGt4mydMEtWyhE5Lm-Ek6gHApwvJY2b-O60Bg5SVg/edit?usp=sharing
+- **Gemini CLI (2026)**
+	- https://docs.google.com/presentation/d/1r7rxOsGYFP9_Pp20H5GyRD-8_a9d5Djn9bZoAuzz9ys/edit?usp=sharing
+
+---
+
+## Workshops and Mentorship
+
+- **Cloud Study Jam 2018** - Lead Instructor and Content Creator
+- **Machine Learning Study Jam 2018** - Instructor and Mentor
+- **Actions on Google 2018** - Lead Instructor
+- **Cloud Study Jam 2019** - Lead Instructor
+- **Flutter Study Jam 2019** - Lead Instructor and Content Creator
+- **Build With AI 2024** - Lead Instructor and Mentor
+	- Repository: https://github.com/GDGSJC/build-with-ai
+- **Build With AI 2025** - Lead Instructor and Mentor (Firebase Studio, vibe coding)
+- **Build With AI 2026** - Lead Instructor and Content Creator
+	- Workshop: Way Back Home
+	- Repository: https://github.com/fredmpeixoto/way-back-home
+
+---
+
+## Articles and Video Content
+
+### Featured Articles
+
+- **SOLID - What Do You Need to Know?**
+	- https://www.linkedin.com/pulse/solid-what-do-you-need-know-fred-peixoto-aovmf/
+- **Afinal, quanto tempo devo estudar para me tornar desenvolvedor de software?**
+	- https://www.linkedin.com/pulse/afinal-quando-tempo-devo-estudar-para-me-tornar-de-software-peixoto/
+- **Do you know the difference between Promises and Observables?**
+	- https://www.linkedin.com/pulse/do-you-know-difference-between-promises-observables-fred-peixoto-wnxcf/
+- **10 tools within Chrome DevTools to help you in your day-to-day as a software developer**
+	- https://medium.com/@fredmpeixoto/10-tools-within-chrome-devtools-to-help-you-in-your-day-to-day-as-a-software-developer-399d8c4c1d09
+
+### More Publications
+
+- LinkedIn articles: https://www.linkedin.com/in/fredpeixoto/recent-activity/articles/
+
+### Videos
+
+- **Variable Environment from Angular**
+	- https://www.youtube.com/watch?v=wr-lnb9c9tE
+- **YouTube Channel (Shorts and talks)**
+	- https://www.youtube.com/@fredmpeixoto
+
+---
+
+## Selected Projects
+
+- **Forecast App** (Angular + ASP.NET + Docker)
+	- https://github.com/fredmpeixoto/forecast
+- **Register Users CRUD** (Angular + ASP.NET + SQL + Docker)
+	- https://github.com/fredmpeixoto/register-users
+- **Hash Game** (Angular)
+	- Code: https://github.com/fredmpeixoto/hash-game
+	- Demo: https://fredmpeixoto.github.io/hash-game/
+- **GDG SJC Single Page**
+	- Code: https://github.com/fredmpeixoto/gdgjsc
+	- Demo: http://gdgsjc.github.io
+- **SOLID Examples with Node.js**
+	- https://github.com/fredmpeixoto/solid-examples
+
+---
+
+## Professional Snapshot
+
+- **Current Role:** Senior Software Engineer (Fox Sports Contractor, 2024-Present)
+- **Previous Companies:** WebCreek, Ambev (Part-Time Consultant), BairesDev, SoftWillians, Laureate, Cooperemb
+- **Education:** Systems Analysis and Development; Computer Networks
+- **Languages:** Portuguese (Native), English (Advanced), Spanish (Intermediate)
+
+---
+
+## Contact
+
+- Email: fredmpeixoto@gmail.com
+- WhatsApp: +55 (12) 98830-3265
+- Location: Jacarei, Sao Paulo - Brazil
+- LinkedIn: https://www.linkedin.com/in/fredpeixoto
+- GitHub: https://github.com/fredmpeixoto
+
+---
+
+## Mission
+
+I build software, mentor developers, and grow communities through practical content, talks, and workshops.
+I am actively working toward becoming a **Google Developer Expert**, sharing real-world knowledge in Angular, AI, cloud, and software architecture.
 
 

@@ -1,0 +1,6 @@
+Place your profile photo in this folder using this exact filename:
+
+profile-fred.jpg
+
+The website hero section is already configured to load it automatically.
+Recommended image: square format, at least 800x800.
